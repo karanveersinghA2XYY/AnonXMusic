@@ -23,7 +23,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Rahulsharma45/AnonXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="50"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/karanveersinghA2XYY/AnonXMusic "> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="50"/></a></p>
 
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
